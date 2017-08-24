@@ -1,5 +1,5 @@
-# mean-stack-registration-login-example
+# Lend
 
-MEAN Stack User Registration and Login Example & Tutorial
+Lend is (will be) an application that helps people share better. Track your lent items and find things you need in your community of friends.
 
-To see a demo and further details go to http://jasonwatmore.com/post/2015/12/09/mean-stack-user-registration-and-login-example-tutorial
+Oversharing is good.
